@@ -1,0 +1,6 @@
+jupyter
+kedro
+kedro-viz
+pandas
+scikit-learn
+awscli
